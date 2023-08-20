@@ -1,3 +1,3 @@
-module github.com/nitinskumavat/unix-cmd
+module nitinskumavat/go-unix-wc-command
 
 go 1.19

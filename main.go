@@ -35,5 +35,5 @@ func main() {
 		wordCount += (int64)(len(strings.Fields(scanner.Text())))
 		lineCount++
 	}
-	fmt.Println(lineCount, wordCount, bytesCount)
+	fmt.Println(lineCount, wordCount, bytesCount, fileName)
 }
