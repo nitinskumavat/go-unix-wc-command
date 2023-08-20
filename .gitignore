@@ -1,0 +1,16 @@
+# Replit-specific files
+.replit
+
+# Ignore binary and temporary files
+*.exe
+*.o
+*.so
+*.out
+
+# Ignore Go build artifacts
+/bin/
+/pkg/
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
